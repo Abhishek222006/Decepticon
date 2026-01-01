@@ -1,5 +1,0 @@
-admin
-sa
-root
-postgres
-msfadmin
