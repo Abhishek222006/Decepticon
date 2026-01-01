@@ -1,0 +1,48 @@
+{
+  "session_id": "c8897a39-1b50-45d3-9569-5c0cd72268c3",
+  "start_time": "2025-12-28T22:11:04.486910",
+  "events": [
+    {
+      "event_type": "user_input",
+      "timestamp": "2025-12-28T22:14:16.052545",
+      "content": "Begin reconnaissance.\nIdentify the target surface and gather publicly available information.\nList findings step by step.\n"
+    },
+    {
+      "event_type": "agent_response",
+      "timestamp": "2025-12-28T22:14:18.979241",
+      "content": "",
+      "agent_name": "Planner",
+      "tool_calls": [
+        {
+          "id": "06dqYx5si",
+          "name": "transfer_to_reconnaissance",
+          "args": {
+            "task_description": "Begin reconnaissance. Identify the target surface and gather publicly available information. List findings step by step."
+          }
+        }
+      ]
+    },
+    {
+      "event_type": "tool_output",
+      "timestamp": "2025-12-28T22:14:19.030758",
+      "content": "Successfully transferred to Reconnaissance",
+      "tool_name": "transfer_to_reconnaissance"
+    },
+    {
+      "event_type": "agent_response",
+      "timestamp": "2025-12-28T22:14:21.107457",
+      "content": "",
+      "agent_name": "Reconnaissance",
+      "tool_calls": [
+        {
+          "id": "mcnNO6ZH1",
+          "name": "transfer_to_reconnaissance",
+          "args": {
+            "task_description": "Begin reconnaissance. Identify the target surface and gather publicly available information. List findings step by step."
+          }
+        }
+      ]
+    }
+  ],
+  "model": "Mistral Devstral (OpenRouter)"
+}

@@ -1,0 +1,12 @@
+{
+  "session_id": "0bc57be5-86be-47a5-ab70-b7b6458fb5a6",
+  "start_time": "2025-12-22T22:31:49.054362",
+  "events": [
+    {
+      "event_type": "user_input",
+      "timestamp": "2025-12-22T22:32:03.666201",
+      "content": "Run reconnaissance only on the lab environment.\nEnumerate network services, versions, and exposed endpoints.\nDo not attempt exploitation.\nProvide a structured summary of findings.\n"
+    }
+  ],
+  "model": "Gemini 1.5 Pro"
+}

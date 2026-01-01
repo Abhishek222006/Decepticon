@@ -1,0 +1,31 @@
+{
+  "session_id": "a4d86b79-609d-4432-a71a-eceb0c2040fd",
+  "start_time": "2025-12-23T23:33:36.598207",
+  "events": [
+    {
+      "event_type": "user_input",
+      "timestamp": "2025-12-23T23:34:52.125050",
+      "content": "Scan the target for open services\n"
+    },
+    {
+      "event_type": "agent_response",
+      "timestamp": "2025-12-23T23:34:58.079437",
+      "content": "",
+      "agent_name": "Planner",
+      "tool_calls": [
+        {
+          "id": "iJ4EBQqvr",
+          "name": "transfer_to_reconnaissance",
+          "args": {}
+        }
+      ]
+    },
+    {
+      "event_type": "tool_output",
+      "timestamp": "2025-12-23T23:34:58.110607",
+      "content": "Successfully transferred to Reconnaissance",
+      "tool_name": "transfer_to_reconnaissance"
+    }
+  ],
+  "model": "Mistral Devstral (OpenRouter)"
+}
