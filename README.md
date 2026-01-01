@@ -12,7 +12,7 @@
 
 
 <!-- GitHub License -->
-<a href="https://github.com/Abhishek222006/Decepticon-Ai-powered-red-team-testing-agent">
+<a href="https://github.com/Abhishek222006/Decepticon">
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="License: Apache 2.0">
 </a>
 
@@ -189,8 +189,8 @@ Please share your usage methods and execution results through PRs!
 
 ### 1. **Clone the repository**
 ```bash
-git clone https://github.com/Abhishek222006/Decepticon-Ai-powered-red-team-testing-agent.git
-cd Decepticon-Ai-powered-red-team-testing-agent
+git clone https://github.com/Abhishek222006/Decepticon.git
+cd Decepticon
 
 
 ```
