@@ -1,8 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-decepticon.egg-info/PKG-INFO
-decepticon.egg-info/SOURCES.txt
-decepticon.egg-info/dependency_links.txt
-decepticon.egg-info/requires.txt
-decepticon.egg-info/top_level.txt
