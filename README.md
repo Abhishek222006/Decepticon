@@ -256,7 +256,9 @@ streamlit run frontend/web/streamlit_app.py
 
 ### ☁️ Cloud Models
 - **OpenAI**: 4.1, 4o, 4o Mini, o4 Mini, o3 Mini, o1 Mini, o1, o3
-- **Anthropic**: Sonnet 4, Opus 4, Sonnet 3.7, Sonnet 3.5, Haiku 3.5, 
+- **Anthropic**: Sonnet 4, Opus 4, Sonnet 3.7, Sonnet 3.5, Haiku 3.5,
+- - **Google Gemini**: Gemini 1.5 Pro, Gemini 1.5 Flash, Gemini 1.5 Flash-8B, Gemini 1.0 Pro
+
 
 ### 🏠 Local Models (Ollama)
 - your installed Models
