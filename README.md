@@ -1,10 +1,8 @@
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.md)
-[![한국어](https://img.shields.io/badge/Language-한국어-red?style=for-the-badge)](./docs/README_KO.md)
 
 
-<div align="center">
-  <img src="assets/logo_banner.png" alt="Decepticon Logo">
-</div>
+
+
 
 <h1 align="center"> Decepticon - Vibe Hacking Agent</h1>
 
@@ -26,7 +24,7 @@ https://github.com/user-attachments/assets/92e1dffd-92af-4d63-b682-c4a1810586a9
 
 <br>
 
-[CLI Demo](.github/cli.gif)
+
 
 </div>
 
@@ -71,10 +69,7 @@ https://github.com/user-attachments/assets/92e1dffd-92af-4d63-b682-c4a1810586a9
 > Do not attempt to use this project on any system or network without explicit authorization.
 > You are solely responsible for your actions.
 
-> ## 💡 **Community Contribution**
-> If you have interesting penetration testing scenarios, export your **logs** and share them with the community through PR! 
-> Your experiences will greatly help other users in their learning journey.
-> Please refer to the Replay section for more details.
+> 
 
 <div align="center">
 
@@ -337,54 +332,6 @@ We're building this project openly with the community and warmly welcome:
 Help us make Decepticon better by filing issues or submitting PRs (see the section below for how to contribute)!
 
 
-## 🤝 Contribution
-
-We welcome contributions from the community to make this project better, more powerful, and more secure.  
-Whether you're an experienced developer, a security researcher, or just getting started in open-source, there are many ways to get involved.
-
-### What You Can Contribute
-
-#### 1. Migrate Security Tools to MCP Format
-
-Help transform existing security tools into modular, LangGraph-compatible **MCP (Modular Command Protocol) tools**.
-
-- Wrap tools using the standard MCP interface (`stdio` or `streamable_http`)
-- Ensure compatibility with `langgraph-mcp-adapter`
-- Place them under the `src/tools/mcp/`
-
-#### 2. Develop ReAct-style Red Team Agents
-
-Design and refine ReAct-style agents for Red Team operations:
-
-- Reconnaissance  
-- Initial Access  
-- Privilege Escalation  
-- Persistence and more
-
-Contribute by:
-
-- Creating tailored prompts under `src/prompts/`
-- Implementing new agents with specific capabilities
-- Improving task planning and memory usage
-
-#### 3. Architect Multi-Agent Flows
-
-Contribute to the design and optimization of the multi-agent orchestration layer:
-
-- Propose new workflows or agent roles
-- Improve inter-agent communication and handoffs
-- Extend state-driven logic using LangGraph
-
-### How to Contribute
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes with clear messages
-4. Push to your branch and open a **Pull Request**
-5. Link the related issue (if any) and explain your solution
-
-We encourage clean, well-tested code with documentation.  
-Feel free to open issues to discuss ideas before jumping into a PR!
 
 
 
