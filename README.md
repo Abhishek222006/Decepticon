@@ -20,7 +20,7 @@
 <!-- Logo Image -->
 <!-- <img src="assets/decepticon_logo.png" alt="Decepticon Logo" width="256" height="256" /> -->
 
-https://drive.google.com/file/d/1kq3WzuX4kmbu5Ifh0J2zIrUaz-nGPJ27/view?usp=drive_link 
+
 <img width="4454" height="210" alt="image" src="https://github.com/user-attachments/assets/28095bbd-e704-416c-b09d-7c6cdf360dc8" />
 
 
