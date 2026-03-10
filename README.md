@@ -21,7 +21,6 @@
 <!-- <img src="assets/decepticon_logo.png" alt="Decepticon Logo" width="256" height="256" /> -->
 
 
-<img width="4454" height="210" alt="image" src="https://github.com/user-attachments/assets/28095bbd-e704-416c-b09d-7c6cdf360dc8" />
 
 
 <br>
